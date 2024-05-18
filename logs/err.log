@@ -1,0 +1,21 @@
+{ isPartial: true, text: 'yeah' }
+{ isPartial: true, text: 'yeah can' }
+{ isPartial: true, text: 'ye can i' }
+{ isPartial: true, text: 'er yeah calas' }
+{ isPartial: true, text: 't yeah clase' }
+{ isPartial: true, text: 'yeah cle' }
+{ isPartial: true, text: 'yeah clas' }
+{ text: 'yah clas ', score: 90 }
+{ isPartial: true, text: 'ao' }
+{ isPartial: true, text: 'भीखा' }
+{ isPartial: true, text: 'भी कहा' }
+{ isPartial: true, text: 'ो भी कहा' }
+{ isPartial: true, text: 'भी कहा' }
+{ isPartial: true, text: 'भीख' }
+{ text: 'भी ', score: 90 }
+{ isPartial: true, text: 'e' }
+{ isPartial: true, text: 'a y' }
+{ isPartial: true, text: 'ma' }
+{ isPartial: true, text: 'a' }
+{ text: 'b ', score: 90 }
+{ text: 'on ', score: 90 }

@@ -13,7 +13,7 @@ module.exports = {
           NODE_ENV: 'production',
           PORT: 8080
         },
-        watch: true, // Watch files for changes and automatically restart
+        watch: false, // Watch files for changes and automatically restart
         ignore_watch: ['node_modules', 'logs'], // Ignore watching these directories
         log_file: './logs/combined.log', // Combined log file
         error_file: './logs/err.log', // Error log file

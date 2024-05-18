@@ -1,2 +1,414 @@
 Server on port '9099': started listening
 Server on port '9099': started listening
+Server on port '9099': started listening
+Server on port '9099': started listening
+Server on port '9099': started listening
+Server on port '9099': started listening
+Server on port '9099': client connected
+riva
+message: {"request":"setup","version":"0.1.0","codecs":[{"name":"ulaw"}],"params":{"language":"en-hi"},"id":"329abcac-52e7-49c5-8609-7776ba4b8d49"}
+setupASR 8000 en-hi 183.82.10.251:50051 MULAW []
+RivaASRClient setupASR  8000 en-hi 183.82.10.251:50051 MULAW
+{
+  streaming_config: {
+    config: {
+      encoding: 'MULAW',
+      sample_rate_hertz: 8000,
+      language_code: 'en-hi',
+      max_alternatives: 4,
+      enable_automatic_punctuation: false,
+      speech_contexts: [Array]
+    },
+    interim_results: true
+  }
+}
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{
+  results: [
+    {
+      alternatives: [Array],
+      is_final: false,
+      stability: 0.10000000149011612,
+      channel_tag: 1,
+      audio_processed: 1.5999997854232788
+    }
+  ]
+}
+{ transcript: 'yeah', is_final: false }
+{
+  results: [
+    {
+      alternatives: [Array],
+      is_final: false,
+      stability: 0.10000000149011612,
+      channel_tag: 1,
+      audio_processed: 1.7599997520446777
+    }
+  ]
+}
+{ transcript: 'yeah can', is_final: false }
+{
+  results: [
+    {
+      alternatives: [Array],
+      is_final: false,
+      stability: 0.10000000149011612,
+      channel_tag: 1,
+      audio_processed: 1.9199997186660767
+    }
+  ]
+}
+{ transcript: 'ye can i', is_final: false }
+{
+  results: [
+    {
+      alternatives: [Array],
+      is_final: false,
+      stability: 0.10000000149011612,
+      channel_tag: 1,
+      audio_processed: 2.0799996852874756
+    }
+  ]
+}
+{ transcript: 'er yeah calas', is_final: false }
+{
+  results: [
+    {
+      alternatives: [Array],
+      is_final: false,
+      stability: 0.10000000149011612,
+      channel_tag: 1,
+      audio_processed: 2.239999771118164
+    }
+  ]
+}
+{ transcript: 't yeah clase', is_final: false }
+{
+  results: [
+    {
+      alternatives: [Array],
+      is_final: false,
+      stability: 0.10000000149011612,
+      channel_tag: 1,
+      audio_processed: 2.3999998569488525
+    }
+  ]
+}
+{ transcript: 'yeah cle', is_final: false }
+{
+  results: [
+    {
+      alternatives: [Array],
+      is_final: false,
+      stability: 0.10000000149011612,
+      channel_tag: 1,
+      audio_processed: 2.559999942779541
+    }
+  ]
+}
+{ transcript: 'yeah clas', is_final: false }
+{
+  results: [
+    {
+      alternatives: [Array],
+      is_final: true,
+      stability: 0,
+      channel_tag: 1,
+      audio_processed: 2.7200000286102295
+    }
+  ]
+}
+{ transcript: 'yah clas ', is_final: true }
+message: {"response":"set","id":"b911653c-4d30-4e3f-8b11-c6317c741475"}
+stop
+{ results: [] }
+StreamingRecognize end
+{ end: true }
+Endpoint end
+Transcription callback endpoint
+Server on port '9099': client connected
+riva
+message: {"request":"setup","version":"0.1.0","codecs":[{"name":"ulaw"}],"params":{"language":"en-hi"},"id":"734e2146-841e-42ce-bce1-98c722a98016"}
+setupASR 8000 en-hi 183.82.10.251:50051 MULAW []
+RivaASRClient setupASR  8000 en-hi 183.82.10.251:50051 MULAW
+{
+  streaming_config: {
+    config: {
+      encoding: 'MULAW',
+      sample_rate_hertz: 8000,
+      language_code: 'en-hi',
+      max_alternatives: 4,
+      enable_automatic_punctuation: false,
+      speech_contexts: [Array]
+    },
+    interim_results: true
+  }
+}
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{
+  results: [
+    {
+      alternatives: [Array],
+      is_final: false,
+      stability: 0.10000000149011612,
+      channel_tag: 1,
+      audio_processed: 1.7599997520446777
+    }
+  ]
+}
+{ transcript: 'ao', is_final: false }
+{ results: [] }
+{
+  results: [
+    {
+      alternatives: [Array],
+      is_final: false,
+      stability: 0.10000000149011612,
+      channel_tag: 1,
+      audio_processed: 2.0799996852874756
+    }
+  ]
+}
+{ transcript: 'भीखा', is_final: false }
+{
+  results: [
+    {
+      alternatives: [Array],
+      is_final: false,
+      stability: 0.10000000149011612,
+      channel_tag: 1,
+      audio_processed: 2.239999771118164
+    }
+  ]
+}
+{ transcript: 'भी कहा', is_final: false }
+{
+  results: [
+    {
+      alternatives: [Array],
+      is_final: false,
+      stability: 0.10000000149011612,
+      channel_tag: 1,
+      audio_processed: 2.3999998569488525
+    }
+  ]
+}
+{ transcript: 'ो भी कहा', is_final: false }
+{
+  results: [
+    {
+      alternatives: [Array],
+      is_final: false,
+      stability: 0.10000000149011612,
+      channel_tag: 1,
+      audio_processed: 2.559999942779541
+    }
+  ]
+}
+{ transcript: 'भी कहा', is_final: false }
+{
+  results: [
+    {
+      alternatives: [Array],
+      is_final: false,
+      stability: 0.10000000149011612,
+      channel_tag: 1,
+      audio_processed: 2.7200000286102295
+    }
+  ]
+}
+{ transcript: 'भीख', is_final: false }
+{
+  results: [
+    {
+      alternatives: [Array],
+      is_final: true,
+      stability: 0,
+      channel_tag: 1,
+      audio_processed: 2.880000114440918
+    }
+  ]
+}
+{ transcript: 'भी ', is_final: true }
+message: {"response":"set","id":"2d625f01-f0af-4338-b578-2293586087fe"}
+stop
+{ results: [] }
+StreamingRecognize end
+{ end: true }
+Endpoint end
+Transcription callback endpoint
+Server on port '9099': client connected
+riva
+message: {"request":"setup","version":"0.1.0","codecs":[{"name":"ulaw"}],"params":{"language":"en-hi"},"id":"86583ca9-c970-47ce-855d-cc7e6888ccb4"}
+setupASR 8000 en-hi 183.82.10.251:50051 MULAW []
+RivaASRClient setupASR  8000 en-hi 183.82.10.251:50051 MULAW
+{
+  streaming_config: {
+    config: {
+      encoding: 'MULAW',
+      sample_rate_hertz: 8000,
+      language_code: 'en-hi',
+      max_alternatives: 4,
+      enable_automatic_punctuation: false,
+      speech_contexts: [Array]
+    },
+    interim_results: true
+  }
+}
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{
+  results: [
+    {
+      alternatives: [Array],
+      is_final: false,
+      stability: 0.10000000149011612,
+      channel_tag: 1,
+      audio_processed: 2.3999998569488525
+    }
+  ]
+}
+{ transcript: 'e', is_final: false }
+{
+  results: [
+    {
+      alternatives: [Array],
+      is_final: false,
+      stability: 0.10000000149011612,
+      channel_tag: 1,
+      audio_processed: 2.559999942779541
+    }
+  ]
+}
+{ transcript: 'a y', is_final: false }
+{
+  results: [
+    {
+      alternatives: [Array],
+      is_final: false,
+      stability: 0.10000000149011612,
+      channel_tag: 1,
+      audio_processed: 2.7200000286102295
+    }
+  ]
+}
+{ transcript: 'ma', is_final: false }
+{
+  results: [
+    {
+      alternatives: [Array],
+      is_final: false,
+      stability: 0.10000000149011612,
+      channel_tag: 1,
+      audio_processed: 2.880000114440918
+    }
+  ]
+}
+{ transcript: 'a', is_final: false }
+{
+  results: [
+    {
+      alternatives: [Array],
+      is_final: true,
+      stability: 0,
+      channel_tag: 1,
+      audio_processed: 3.0400002002716064
+    }
+  ]
+}
+{ transcript: 'b ', is_final: true }
+message: {"response":"set","id":"c95bc54f-0107-4424-b6a2-b1eaf6a8a7ff"}
+stop
+{ results: [] }
+StreamingRecognize end
+{ end: true }
+Endpoint end
+Transcription callback endpoint
+Server on port '9099': client connected
+riva
+message: {"request":"setup","version":"0.1.0","codecs":[{"name":"ulaw"}],"params":{"language":"en-hi"},"id":"29c79458-1b84-4a9f-9faf-a920caae4d8f"}
+setupASR 8000 en-hi 183.82.10.251:50051 MULAW []
+RivaASRClient setupASR  8000 en-hi 183.82.10.251:50051 MULAW
+{
+  streaming_config: {
+    config: {
+      encoding: 'MULAW',
+      sample_rate_hertz: 8000,
+      language_code: 'en-hi',
+      max_alternatives: 4,
+      enable_automatic_punctuation: false,
+      speech_contexts: [Array]
+    },
+    interim_results: true
+  }
+}
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{ results: [] }
+{
+  results: [
+    {
+      alternatives: [Array],
+      is_final: true,
+      stability: 0,
+      channel_tag: 1,
+      audio_processed: 2.0799996852874756
+    }
+  ]
+}
+{ transcript: 'on ', is_final: true }
+message: {"response":"set","id":"42d090c6-55f7-4910-8ec7-5fa412adccd4"}
+stop
+{ results: [] }
+StreamingRecognize end
+{ end: true }
+Endpoint end
+Transcription callback endpoint
+Server on port '9099': started listening
+Server on port '9099': started listening
+Server on port '9099': started listening
+Server on port '9099': started listening
+Server on port '9099': started listening
+Server on port '9099': started listening
+Server on port '9099': started listening
+Server on port '9099': started listening
+Server on port '9099': started listening
+Server on port '9099': started listening
