@@ -7,6 +7,14 @@
 	"bin": "./index.js",
 	"license": "Apache-2.0",
 	"readmeFilename": "README.md",
+	"scripts": {
+		"start": "node app.js",
+		"start:dev": "pm2 start ecosystem.config.js --env development",
+		"start:prod": "pm2 start ecosystem.config.js --env production",
+		"stop": "pm2 stop my-node-app",
+		"restart": "pm2 restart my-node-app",
+		"delete": "pm2 delete my-node-app"
+	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/asterisk/aeap-speech-to-text.git"
