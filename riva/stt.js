@@ -5,7 +5,6 @@ const DEFAULT_SAMPLE_RATE = 8000;
 const DEFAULT_LANGUAGE = "en-hi";
 const DEFAULT_RESTART_TIME = 10; // in seconds
 const DEFAULT_MAX_RESULTS = 100;
-const fs = require('fs');
 class RivaSTTClient extends Writable {
 
     /* Mapped encodings supported by Google */
@@ -25,8 +24,6 @@ class RivaSTTClient extends Writable {
     constructor(options) {
 
         super();
-
-        this.fileStream = fs.createWriteStream('test.wav')
         this.config = {
             encoding: DEFAULT_ENCODING,
             sampleRateHertz: DEFAULT_SAMPLE_RATE,
@@ -48,7 +45,6 @@ class RivaSTTClient extends Writable {
 
     _write(chunk, encoding, callback) {
         if (this.client) {
-            this.fileStream.write(chunk);
             this.client.recognizeStream.write({ audio_content: chunk });
         }
 
@@ -169,7 +165,6 @@ class RivaSTTClient extends Writable {
 
         if (this.client)
             this.client.end();
-        this.fileStream.close();
     }
 
     /**
