@@ -21,6 +21,10 @@
 		"@google-cloud/speech": "^4.9.0",
 		"dotenv": "^16.4.5",
 		"ws": "^8.3.0",
-		"yargs": "^17.3.1"
+		"yargs": "^17.3.1",
+		"@grpc/grpc-js": "^1.7.1",
+		"@grpc/proto-loader": "^0.7.3",
+		"google-protobuf": "^3.21.1",
+		"grpc": "^1.24.11"
 	}
 }

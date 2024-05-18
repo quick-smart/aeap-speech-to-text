@@ -42,11 +42,12 @@ const languages = new Languages(argv);
 const server = getServer("ws", argv);
 
 server.on("connection", (client) => {
+	// console.log(codecs, languages, argv);
 	dispatch({
 		codecs: codecs,
 		languages: languages,
 		transport: client,
-		provider: getProvider("google", argv),
+		provider: getProvider("riva", argv),
 	});
 });
 
