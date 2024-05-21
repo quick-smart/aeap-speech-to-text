@@ -8,12 +8,12 @@
 	"license": "Apache-2.0",
 	"readmeFilename": "README.md",
 	"scripts": {
-		"start": "node app.js",
+		"start": "node index.js",
 		"start:dev": "pm2 start ecosystem.config.js --env development",
 		"start:prod": "pm2 start ecosystem.config.js --env production",
-		"stop": "pm2 stop my-node-app",
-		"restart": "pm2 restart my-node-app",
-		"delete": "pm2 delete my-node-app"
+		"stop": "pm2 stop speech-to-text",
+		"restart": "pm2 restart speech-to-text",
+		"delete": "pm2 delete speech-to-text"
 	},
 	"repository": {
 		"type": "git",

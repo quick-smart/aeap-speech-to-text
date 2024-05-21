@@ -17,6 +17,8 @@
  *  limitations under the License.
  */
 require('dotenv').config();
+const url = require('url');
+
 const { Codecs } = require("./lib/codecs");
 const { Languages } = require("./lib/languages");
 
@@ -41,13 +43,15 @@ const codecs = new Codecs(argv);
 const languages = new Languages(argv);
 const server = getServer("ws", argv);
 
-server.on("connection", (client) => {
+server.on("connection", (client, req) => {
 	// console.log(codecs, languages, argv);
+	const parameters = url.parse(req.url, true).query;
+	const { provider = "riva" } = parameters
 	dispatch({
 		codecs: codecs,
 		languages: languages,
 		transport: client,
-		provider: getProvider("riva", argv),
+		provider: getProvider(provider, argv),
 	});
 });
 

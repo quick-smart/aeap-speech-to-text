@@ -19,3 +19,1159 @@
 { isPartial: true, text: 'a' }
 { text: 'b ', score: 90 }
 { text: 'on ', score: 90 }
+{ isPartial: true, text: 'yeah' }
+{ isPartial: true, text: 'yes' }
+{ isPartial: true, text: 'yes' }
+{ isPartial: true, text: 'yes hello' }
+{ isPartial: true, text: 'yes hello' }
+{ isPartial: true, text: 'yes h m' }
+{ isPartial: true, text: 'yes c me' }
+{ isPartial: true, text: 'yes l me' }
+{ isPartial: true, text: 'yes lch me' }
+{ isPartial: true, text: 'yes lch me' }
+{ text: 'yes tlls me ', score: 90 }
+{ isPartial: true, text: 'sorry' }
+{ isPartial: true, text: 'sorry' }
+{ isPartial: true, text: 'sry' }
+{ isPartial: true, text: 'sorry' }
+{ isPartial: true, text: 'sorry y' }
+{ isPartial: true, text: 'sorry yes' }
+{ isPartial: true, text: 'sorry yes' }
+{ isPartial: true, text: 'sorry yes' }
+{ isPartial: true, text: 'sorry yes' }
+{ text: 'sorryes ', score: 90 }
+{ isPartial: true, text: 'heo' }
+{ isPartial: true, text: 'hello' }
+{ isPartial: true, text: 'hello' }
+{ isPartial: true, text: 'hello hello' }
+{ isPartial: true, text: 'hello hellो' }
+{ isPartial: true, text: 'hello hello' }
+{ isPartial: true, text: 'ello hello good mornिंग' }
+{ isPartial: true, text: 'hello god morning' }
+{ isPartial: true, text: 'hello good morनिं' }
+{ isPartial: true, text: 'hello gुd morनिं' }
+{ isPartial: true, text: 'hello god morनि' }
+{ text: 'hello god morनि ', score: 90 }
+{ isPartial: true, text: 'hello' }
+{ isPartial: true, text: 'y' }
+{ text: 'y ', score: 90 }
+{ isPartial: true, text: 'h' }
+{ isPartial: true, text: 'okay' }
+{ isPartial: true, text: 'okay' }
+{ isPartial: true, text: 'okay' }
+{ isPartial: true, text: 'okay' }
+{ text: 'okay ', score: 90 }
+{ isPartial: true, text: 'hello' }
+{ isPartial: true, text: 'hello' }
+{ isPartial: true, text: 'heo' }
+{ isPartial: true, text: 'hello' }
+{ isPartial: true, text: 'hello' }
+{ text: 'hello ', score: 90 }
+{ isPartial: true, text: 'o' }
+{ isPartial: true, text: 's' }
+{ isPartial: true, text: 'शोर दे' }
+{ isPartial: true, text: 'sोर द' }
+{ isPartial: true, text: 'sोre dt' }
+{ isPartial: true, text: 'sure bech' }
+{ text: 'sure bech ', score: 90 }
+{ isPartial: true, text: 'hello' }
+{ isPartial: true, text: 'seventy' }
+{ isPartial: true, text: 'seventy five' }
+{ isPartial: true, text: 'seventy five nine' }
+{ isPartial: true, text: 'seventy five lakhs' }
+{ isPartial: true, text: 'seventy five laxs' }
+{ isPartial: true, text: 'seventy five lax' }
+{ isPartial: true, text: 'seventy five lax' }
+{ isPartial: true, text: 'seventy five lax' }
+{ text: 'seventy five lax ', score: 90 }
+{ isPartial: true, text: 'inve' }
+{ isPartial: true, text: 'investment' }
+{ isPartial: true, text: 'इन्वेस्टमेंट p' }
+{ isPartial: true, text: 'investment purpose' }
+{ isPartial: true, text: 'investment purpose' }
+{ isPartial: true, text: 'investment purpose' }
+{ isPartial: true, text: 'investment purpose' }
+{ isPartial: true, text: 'investment purpose' }
+{ isPartial: true, text: 'investment purpose' }
+{ text: 'investment purpose ', score: 90 }
+{ isPartial: true, text: 'next' }
+{ isPartial: true, text: 'next' }
+{ isPartial: true, text: 'next three month' }
+{ isPartial: true, text: 'next three months' }
+{ isPartial: true, text: 'next three months' }
+{ isPartial: true, text: 'next three months' }
+{ isPartial: true, text: 'next three months' }
+{ isPartial: true, text: 'next three months' }
+{ isPartial: true, text: 'next three months' }
+{ text: 'next three months ', score: 90 }
+{ isPartial: true, text: 'a' }
+{ isPartial: true, text: 'हाँक' }
+{ isPartial: true, text: 'हाँ जीतन' }
+{ isPartial: true, text: 'हाँ जी तला' }
+{ isPartial: true, text: 'हाँ जी तलाश में' }
+{ isPartial: true, text: 'हाँ जी तलश न्य' }
+{ isPartial: true, text: 'हाँ जी तलाश न्यू' }
+{ isPartial: true, text: 'हाँ जी तलाश न्यू' }
+{ isPartial: true, text: 'हाँ जी तलाश नू' }
+{ isPartial: true, text: 'हाँ जी तलाश न' }
+{ isPartial: true, text: 'हाँ जी तलाश नू' }
+{ text: 'हाँ जी तलाश मेंू ', score: 90 }
+{ isPartial: true, text: 'a' }
+{ isPartial: true, text: 'ah' }
+{ isPartial: true, text: 'uh for' }
+{ isPartial: true, text: 'ah four' }
+{ isPartial: true, text: 'four' }
+{ isPartial: true, text: 'fou b' }
+{ isPartial: true, text: 'fou bedroom' }
+{ isPartial: true, text: 'fr bedroom' }
+{ isPartial: true, text: 'fr bedroom' }
+{ isPartial: true, text: 'four bedroom' }
+{ isPartial: true, text: 'four bedroom' }
+{ isPartial: true, text: 'h four bedroom' }
+{ text: 'f bedroom ', score: 90 }
+{ text: 'a ', score: 90 }
+{ isPartial: true, text: 'ah' }
+{ isPartial: true, text: 'ah' }
+{ isPartial: true, text: 'ah' }
+{ isPartial: true, text: 'ah' }
+{ isPartial: true, text: 'uh' }
+{ text: 'h ', score: 90 }
+{ isPartial: true, text: 'ु के' }
+{ isPartial: true, text: 'खुद के लिए' }
+{ isPartial: true, text: 'खुद क लिए' }
+{ isPartial: true, text: 'खुद क लिए' }
+{ isPartial: true, text: 'खुद क लिए' }
+{ text: 'खुद कह लिए ', score: 90 }
+{ isPartial: true, text: 'दो महीने' }
+{ isPartial: true, text: 'दो मंथ' }
+{ isPartial: true, text: 'दो मंथ' }
+{ isPartial: true, text: 'दो मंथ' }
+{ isPartial: true, text: 'दो मonथh' }
+{ isPartial: true, text: 'दो मonथh' }
+{ text: 'दो month ', score: 90 }
+{ isPartial: true, text: 'हाँ करहा' }
+{ isPartial: true, text: 'हाँ कर रहा हूँ' }
+{ isPartial: true, text: 'हाँ कर रहा हूँ' }
+{ isPartial: true, text: 'हाँ कर रहा हूँ' }
+{ isPartial: true, text: 'हाँ कर रहा हूँ' }
+{ isPartial: true, text: 'हाँ कर रहा हूँ' }
+{ isPartial: true, text: 'हाँ कर रहा हूँ' }
+{ text: 'हाँ कर रहा हूँ ', score: 90 }
+{ isPartial: true, text: 'pan' }
+{ isPartial: true, text: 'पाँच ब' }
+{ isPartial: true, text: 'banch be' }
+{ isPartial: true, text: 'पांच पीचक' }
+{ isPartial: true, text: 'पांचडीएच के' }
+{ isPartial: true, text: 'panch p hk' }
+{ isPartial: true, text: 'banch p hk' }
+{ isPartial: true, text: 'banch p hk' }
+{ isPartial: true, text: 'banch p hk' }
+{ text: 'banch b h k ', score: 90 }
+{ isPartial: true, text: 's' }
+{ isPartial: true, text: 'sevent' }
+{ isPartial: true, text: 'seventy' }
+{ isPartial: true, text: 'seventy five' }
+{ isPartial: true, text: 'seventy five lakh' }
+{ isPartial: true, text: 'seventy five lakh' }
+{ isPartial: true, text: 'seventy five lakh' }
+{ isPartial: true, text: 'seventy five lाakh' }
+{ isPartial: true, text: 'seventy five lakh' }
+{ isPartial: true, text: 'seventy five lakh' }
+{ text: 'seventy five lakh ', score: 90 }
+{ isPartial: true, text: 'a' }
+{ isPartial: true, text: 'h ne' }
+{ isPartial: true, text: 'h new l' }
+{ isPartial: true, text: 'h new lach' }
+{ isPartial: true, text: 'न्यू लॉच में' }
+{ isPartial: true, text: 'न्यू लॉन्च में' }
+{ isPartial: true, text: 'न्यू लॉन्च में' }
+{ isPartial: true, text: 'न्यू लॉन्च में' }
+{ isPartial: true, text: 'न्यe लॉन्ch में' }
+{ text: 'न्यe लॉन्ch में ', score: 90 }
+{ isPartial: true, text: 'investment' }
+{ isPartial: true, text: 'इन्veेstमmentट' }
+{ isPartial: true, text: 'इन्वेस्टमेंट आ' }
+{ isPartial: true, text: 'investment purpose' }
+{ isPartial: true, text: 'investment purpose' }
+{ isPartial: true, text: 'investment purpose' }
+{ isPartial: true, text: 'investment purpose' }
+{ isPartial: true, text: 'investment purpose' }
+{ isPartial: true, text: 'investment purpose' }
+{ text: 'investment purpose ', score: 90 }
+{ isPartial: true, text: 'ह' }
+{ isPartial: true, text: 'ha okay' }
+{ isPartial: true, text: 'ah ote' }
+{ isPartial: true, text: 'तीन मिनt' }
+{ isPartial: true, text: 'ह और तीन महीने में' }
+{ isPartial: true, text: 'हाँ और तीन महीने में' }
+{ isPartial: true, text: 'हाँ और तीन महीने में' }
+{ isPartial: true, text: 'और तीन महीने में' }
+{ isPartial: true, text: 'ह और तीन महीने में' }
+{ isPartial: true, text: 'ह और तीन महीने में' }
+{ text: 'ह और तीन महीने में ', score: 90 }
+{ isPartial: true, text: 'हाँ' }
+{ isPartial: true, text: 'हाँ' }
+{ isPartial: true, text: 'हाँ सर्च करना' }
+{ isPartial: true, text: 'हाँ सर्च कर रहा हूँ' }
+{ isPartial: true, text: 'हाँ सर्च कर रहा हूँ' }
+{ isPartial: true, text: 'हाँ सर्च कर रहा हूँ' }
+{ isPartial: true, text: 'हाँ सर्च कर रहा हूँ' }
+{ isPartial: true, text: 'हाँ सर्च कर रहा हूँ' }
+{ isPartial: true, text: 'हाँ सर्च कर रहा हूँ' }
+{ text: 'हाँ सर्च कर रहा हूँ ', score: 90 }
+{ isPartial: true, text: 'one' }
+{ isPartial: true, text: 'what be' }
+{ isPartial: true, text: 'what be it' }
+{ isPartial: true, text: 'what ब hk' }
+{ isPartial: true, text: 'at b hk' }
+{ isPartial: true, text: 'forat b h k' }
+{ isPartial: true, text: 'forat b h k' }
+{ isPartial: true, text: 'forat b h k' }
+{ text: 'forat d h k ', score: 90 }
+{ isPartial: true, text: 'हँ' }
+{ isPartial: true, text: 'ह' }
+{ isPartial: true, text: 'ह कला' }
+{ isPartial: true, text: 'ह साक लाख' }
+{ isPartial: true, text: 'हँ साठ लाख' }
+{ isPartial: true, text: 'हँ साठ लाख' }
+{ isPartial: true, text: 'हँ साठ लाख' }
+{ isPartial: true, text: 'हँ साक लाख' }
+{ text: 'ह साक लाक ', score: 90 }
+{ isPartial: true, text: 'theigh' }
+{ isPartial: true, text: 'reay mo' }
+{ isPartial: true, text: 're move' }
+{ isPartial: true, text: 're move' }
+{ isPartial: true, text: 't mo' }
+{ isPartial: true, text: 't move' }
+{ isPartial: true, text: 't move' }
+{ text: 't move ', score: 90 }
+{ isPartial: true, text: 'investment' }
+{ isPartial: true, text: 'investment' }
+{ isPartial: true, text: 'इन्वेस्टमेंट के' }
+{ isPartial: true, text: 'इन्वेस्टमेंट के लिए' }
+{ isPartial: true, text: 'इन्वेस्टमेंट के लिए' }
+{ isPartial: true, text: 'इन्वेस्टमेंट के लिए' }
+{ isPartial: true, text: 'इन्वेस्टमेंट के लिए' }
+{ isPartial: true, text: 'इन्वेस्टमेंट के लिए' }
+{ text: 'इन्वेस्टमेंट के लिए ', score: 90 }
+{ isPartial: true, text: 'min' }
+{ isPartial: true, text: 'my n' }
+{ isPartial: true, text: 'in my name' }
+{ isPartial: true, text: 'in my name' }
+{ isPartial: true, text: 'in my name' }
+{ isPartial: true, text: 'in my name' }
+{ isPartial: true, text: 'in my name' }
+{ text: 'my name ', score: 90 }
+{ isPartial: true, text: 'h' }
+{ isPartial: true, text: 'हाँ दे' }
+{ isPartial: true, text: 'हाँ देख रहा' }
+{ isPartial: true, text: 'हाँ देख रहा हूँ' }
+{ isPartial: true, text: 'हाँ देख रहा हूँ' }
+{ isPartial: true, text: 'हाँ देख रहा हूँ' }
+{ isPartial: true, text: 'हाँ देख रहा हूँ' }
+{ isPartial: true, text: 'हाँ देख रहा हूँ' }
+{ isPartial: true, text: 'हाँ देख रहा हूँ' }
+{ text: 'हाँ देख रहा हँ ', score: 90 }
+{ isPartial: true, text: 'one' }
+{ isPartial: true, text: 'fuds' }
+{ isPartial: true, text: 'fnds b' }
+{ isPartial: true, text: 'fanc बेedroom' }
+{ isPartial: true, text: 'panc बेedroom' }
+{ isPartial: true, text: 'panस बेedroom' }
+{ isPartial: true, text: 'panस बेedroom' }
+{ isPartial: true, text: 'panस बेedroom' }
+{ isPartial: true, text: 'panस बेedroom' }
+{ text: 'fanस बेedroom ', score: 90 }
+{ isPartial: true, text: 'eighteen' }
+{ isPartial: true, text: 'eighty lakh' }
+{ isPartial: true, text: 'eighty lakhs' }
+{ isPartial: true, text: 'eighty lakhs' }
+{ isPartial: true, text: 'eighty lakhs' }
+{ isPartial: true, text: 'eighty lakhs' }
+{ isPartial: true, text: 'eighty lakhs' }
+{ text: 'eighty lakhs ', score: 90 }
+{ isPartial: true, text: 'investment' }
+{ isPartial: true, text: 'इvestmेंट' }
+{ isPartial: true, text: 'investment purpose' }
+{ isPartial: true, text: 'इन्veेस्टमेंट purps के' }
+{ isPartial: true, text: 'इन्वेस्टमेंट पर्पस के लिए' }
+{ isPartial: true, text: 'इन्वेस्टमेंट पर्पस के लिए' }
+{ isPartial: true, text: 'इन्वेस्टमेंट puर्पस के लिए' }
+{ isPartial: true, text: 'इन्वेस्टमेंट पuर्पस के लिए' }
+{ isPartial: true, text: 'इन्वेस्टमेंट पuर्पस के लिए' }
+{ text: 'इन्वेस्टमेंट पuर्पस के लिए ', score: 90 }
+{ isPartial: true, text: 'एक' }
+{ isPartial: true, text: 'एक' }
+{ isPartial: true, text: 'एक तीन' }
+{ isPartial: true, text: 'एक तीन महीने' }
+{ isPartial: true, text: 'एक तीन महीने में' }
+{ isPartial: true, text: 'एक तीन महीने में' }
+{ isPartial: true, text: 'एक तीन महीने में' }
+{ isPartial: true, text: 'एक तीन महीने में' }
+{ isPartial: true, text: 'एक तीन महीने में' }
+{ isPartial: true, text: 'एक तीन महीने में' }
+{ text: 'एक तीन महीने में ', score: 90 }
+{ isPartial: true, text: 'जी' }
+{ isPartial: true, text: 'जी हाँ' }
+{ isPartial: true, text: 'जी हाँ' }
+{ isPartial: true, text: 'जी हाँ' }
+{ isPartial: true, text: 'जी हाँ' }
+{ text: 'जी हाँ ', score: 90 }
+{ isPartial: true, text: 'आप' }
+{ isPartial: true, text: 'आपके पास' }
+{ isPartial: true, text: 'आपके पास क्या' }
+{ isPartial: true, text: 'आपके पास क्या है' }
+{ isPartial: true, text: 'आपके पास क्या क्या' }
+{ isPartial: true, text: 'आपके पास क्या क्या ऑप्शन है' }
+{ isPartial: true, text: 'आपके पास क्या क्या ऑप्शन है' }
+{ isPartial: true, text: 'आपके पास क्या क्या ऑप्शन है' }
+{ isPartial: true, text: 'आपके पास क्या क्या ऑप्शन है' }
+{ isPartial: true, text: 'आपके पास क्या क्या ऑप्शन है' }
+{ isPartial: true, text: 'आपके पास क्या क्या ऑप्शन है' }
+{ isPartial: true, text: 'आपके पास क्या क्या ऑप्शन है' }
+{ text: 'आपके पास क्या क्या ऑप्शन है ', score: 90 }
+{ isPartial: true, text: 'no' }
+{ isPartial: true, text: 'मेर बा' }
+{ isPartial: true, text: 'मेर बा' }
+{ isPartial: true, text: 'मेर बा' }
+{ isPartial: true, text: 'मेरे ब पारट' }
+{ isPartial: true, text: 'मेर बा पार्ट' }
+{ isPartial: true, text: 'मेरे बा पाठ लाख' }
+{ isPartial: true, text: 'मेरे बाप पाठ लाख कर' }
+{ isPartial: true, text: 'मेरे बाप पाठ लाख कर ले' }
+{ isPartial: true, text: 'मेरे बाप पाठ लाख के ले' }
+{ isPartial: true, text: 'मेरे बा पाठ लाख से लेके' }
+{ isPartial: true, text: 'मेरे बा पाठ लाख से लेटे एक' }
+{ isPartial: true, text: 'मेरे बा पाठ लाख से लेके एक करोड़' }
+{ isPartial: true, text: 'मेरे बाप पाठ लाख से लेके एक करोड़ की' }
+{ isPartial: true, text: 'मेरे बाप पाठ लाख से लेके एक करोड़ के बीज' }
+{
+  isPartial: true,
+  text: 'मेरे बाप पाठ लाख से लेके एक करोड़ के बीच में'
+}
+{
+  isPartial: true,
+  text: 'मेरे बाप पाठ लाख से लेके एक करोड़ के बीच में बता'
+}
+{
+  isPartial: true,
+  text: 'मेरे बाप पाठ लाख से लेके एक करोड़ के बीच में बता दीजिए'
+}
+{
+  isPartial: true,
+  text: 'मेरे बाप पाठ लाख से लेके एक करोड़ के बीच में बता दीजिए'
+}
+{
+  isPartial: true,
+  text: 'मेरे बाप पाठ लाख से लेके एक करोड़ के बीच में बता दीजिए'
+}
+{
+  isPartial: true,
+  text: 'मेरे बाप पाठ लाख से लेके एक करोड़ के बीच में बता दीजिए'
+}
+{
+  isPartial: true,
+  text: 'मेरे बाप पाठ लाख से लेके एक करोड़ के बीच में बता दीजिए'
+}
+{
+  isPartial: true,
+  text: 'मेरे बाप पाठ लाख से लेके एक करोड़ के बीच में बता दीजिए'
+}
+{
+  text: 'मेरे बाप पाठ लाख से लेके एक करोड़ के बीच में बता दीजिए ',
+  score: 90
+}
+{ isPartial: true, text: 'm pp' }
+{ isPartial: true, text: 'मेर को आपन्वेस्' }
+{ isPartial: true, text: 'मेर को आप इन्वेस्टमेंट' }
+{ isPartial: true, text: 'मेरे को आप इन्वेस्टमेंट के' }
+{ isPartial: true, text: 'मेरे पाप इन्वेस्टमेंट के पॉंट है' }
+{ isPartial: true, text: 'मेरे को आप इन्वेस्टमेंट के पॉइंट ऑफ़ है' }
+{ isPartial: true, text: 'मेरे को आप इन्वेस्टमेंट के पॉइट ऑफ व्यू से' }
+{
+  isPartial: true,
+  text: 'मेरे को आप इन्वेस्टमेंट के पॉइंट ऑफ्यू से बे'
+}
+{
+  isPartial: true,
+  text: 'मेरे को आप इन्वेस्टमेंट के पॉइंट ऑफ व्यू से बताते'
+}
+{
+  isPartial: true,
+  text: 'मेरे को आप इन्वेस्टमेंट के पॉइंट ऑफ व्यू से बता दीजिए'
+}
+{
+  isPartial: true,
+  text: 'मेरे को आप इन्वेस्टमेंट के पॉइंटऑफ्यू से बता दीजिए'
+}
+{
+  isPartial: true,
+  text: 'मेरे को आप इन्वेस्टमेंट के पॉइंटऑफ्यू से बता दीजिए'
+}
+{
+  isPartial: true,
+  text: 'मेरे को आप इन्वेस्टमेंट के पॉइंटऑफ ्यू से बता दीजिए'
+}
+{
+  isPartial: true,
+  text: 'मेरे को आप इन्वेस्टमेंट के पॉइंटऑफ व्य से बता दीजिए'
+}
+{
+  isPartial: true,
+  text: 'मेरे को आप इन्वेस्टमेंट के पॉइटऑफ व्य से बता दीजिए'
+}
+{
+  text: 'मेरे को आप इन्वेस्टमेंट के पॉइंटऑफ ्य से बता दीजिए ',
+  score: 90
+}
+{ isPartial: true, text: 'हम' }
+{ isPartial: true, text: 'हमरे' }
+{ isPartial: true, text: 'हमे' }
+{ isPartial: true, text: 'हमरे' }
+{ isPartial: true, text: 'हम्रे' }
+{ isPartial: true, text: 'आम्र देव' }
+{ isPartial: true, text: 'आम्र दे' }
+{ isPartial: true, text: 'हम दई' }
+{ text: 'हम ', score: 90 }
+{ text: 'सइ डेड ', score: 90 }
+{ isPartial: true, text: 'ह' }
+{ isPartial: true, text: 'ह' }
+{ isPartial: true, text: 'हाँ' }
+{ isPartial: true, text: 'a m' }
+{ isPartial: true, text: 'हाँ बिलफुल मै घर' }
+{ isPartial: true, text: 'हाँ बंडफुल मैट घर के त' }
+{ isPartial: true, text: 'हाँफंडफुल मैट घर की तलाश' }
+{ isPartial: true, text: 'हाँ बिल्फुल मैं घर की तलाश' }
+{ isPartial: true, text: 'हाँ बिल्कुल मैं एक घर की तलाश में हूँ' }
+{ isPartial: true, text: 'हाँ बिल्फुल मैं एक घर की तलाश में हूँ' }
+{ isPartial: true, text: 'हाँ बिल्फुल मैं एक घर की तलाश में हूँ' }
+{ isPartial: true, text: 'हाँ बिल्फुल मैं एक घर की तलाश में हूँ' }
+{ isPartial: true, text: 'हाँ बिल्कुल मैं एक घर की तलाश में हूँ' }
+{ isPartial: true, text: 'हाँ बिल्कुल मैं एक घर की तलाश में हूँ' }
+{ text: 'हाँ बिल्कुल मैं एक घर की तलाश में हूँ ', score: 90 }
+{ isPartial: true, text: 'हाँ म' }
+{ isPartial: true, text: 'हाँ मैं' }
+{ isPartial: true, text: 'हाँ मैं' }
+{ isPartial: true, text: 'ha mै' }
+{ isPartial: true, text: 'ha m' }
+{ text: 'ha m ', score: 90 }
+{ isPartial: true, text: 's' }
+{ isPartial: true, text: 'su' }
+{ isPartial: true, text: 'c' }
+{ isPartial: true, text: 'car bedre' }
+{ isPartial: true, text: 'char bedroom' }
+{ isPartial: true, text: 'shar bedroom' }
+{ isPartial: true, text: 'char bedroom' }
+{ isPartial: true, text: 'char bedroom' }
+{ isPartial: true, text: 'sr bedroom' }
+{ text: 'share bedroom ', score: 90 }
+{ isPartial: true, text: 'h' }
+{ isPartial: true, text: 'a' }
+{ isPartial: true, text: 'आ' }
+{ isPartial: true, text: 'हँ' }
+{ text: 'ह ', score: 90 }
+{ isPartial: true, text: 'p' }
+{ isPartial: true, text: 'p' }
+{ isPartial: true, text: 'ईpी' }
+{ isPartial: true, text: 'ipीp' }
+{ isPartial: true, text: 'ipp' }
+{ isPartial: true, text: 'ipp' }
+{ text: 'ipीp ', score: 90 }
+{ text: 's ', score: 90 }
+{ isPartial: true, text: 'hello' }
+{ isPartial: true, text: 'hello' }
+{ isPartial: true, text: 'hello' }
+{ isPartial: true, text: 'ह म' }
+{ isPartial: true, text: 'अपने लिए' }
+{ isPartial: true, text: 'अपने लिए' }
+{ isPartial: true, text: 'अपने लिए' }
+{ isPartial: true, text: 'अपने लिए' }
+{ isPartial: true, text: 'अपने लिए' }
+{ text: 'अपने लिए ', score: 90 }
+{ text: 'न ', score: 90 }
+{ isPartial: true, text: 'एक त दो में' }
+{ isPartial: true, text: 'एक त दो मीन' }
+{ isPartial: true, text: 'एक से दो महीने' }
+{ isPartial: true, text: 'एक से दो महीने में' }
+{ isPartial: true, text: 'एक से दो महीने में' }
+{ isPartial: true, text: 'एक से दो महीने में' }
+{ isPartial: true, text: 'एक से दो महीने में' }
+{ isPartial: true, text: 'एक से दो महीने में' }
+{ text: 'एक से दो महीने में ', score: 90 }
+{ isPartial: true, text: 'ain' }
+{ isPartial: true, text: 'आप बिलकुल' }
+{ isPartial: true, text: 'आाँ बिलकुल म' }
+{ isPartial: true, text: 'आाँ बिल्कुल म' }
+{ isPartial: true, text: 'हाँ बिल्कुल मैं गु' }
+{ isPartial: true, text: 'हाँ बिल्कुल मैं करतीूँ' }
+{ isPartial: true, text: 'हाँ बिल्कुल मैं गर्दी काला' }
+{ isPartial: true, text: 'हाँ बिल्कुल मैं गर्दी तलाप' }
+{ isPartial: true, text: 'हाँ बिल्कुल मैं गर्दी तलाक में' }
+{ isPartial: true, text: 'हाँ बिल्कुल मैं गर्दी तलाक में हूँ' }
+{ isPartial: true, text: 'हाँ बिल्कुल मैं गर्दी कलाक में हूँ' }
+{ isPartial: true, text: 'हाँ बिल्कुल मैं गर्दी कलाक में हूँ' }
+{ isPartial: true, text: 'हाँ बिल्कुल मैं गर्दी कलाक में हूँ' }
+{ isPartial: true, text: 'हाँ बिल्कुल मैं गर्दी कलाक में हूँ' }
+{ isPartial: true, text: 'हाँ बिल्कुल मैं गर्दी कलाक में हूँ' }
+{ text: 'हाँ बिल्कुल मैं गर्दी कलाक में हूँ ', score: 90 }
+{ isPartial: true, text: 'yh' }
+{ isPartial: true, text: 'म pइ' }
+{ isPartial: true, text: 'fफive y' }
+{ isPartial: true, text: 'मैं फाइव दिया' }
+{ isPartial: true, text: 'मैंफाइव द' }
+{ isPartial: true, text: 'मै फाइव दिया चेगा' }
+{ isPartial: true, text: 'fफive y' }
+{ isPartial: true, text: 'fफाइव ा फ्लैट' }
+{ isPartial: true, text: 'मैं फाइव द कााफलट देत' }
+{ isPartial: true, text: 'मैं फाइव दीच काा फ्लैट दे दूँ' }
+{ isPartial: true, text: 'मैं फाइव दीच का फ्लैट दे लता' }
+{ isPartial: true, text: 'मैं फाइव दीच का फ्लैट देख लता हू' }
+{ isPartial: true, text: 'मैं फाइव दीच का फ्लैट देखने चँ' }
+{ isPartial: true, text: 'मैं फाइव बीच का फ्लैट देख न चँ' }
+{ isPartial: true, text: 'मैं फाइव बीच का फ्लैट देख न चँ' }
+{ text: 'मैं फाइव बी का फ्लैट दे ', score: 90 }
+{ isPartial: true, text: 'मेरा बजट' }
+{ isPartial: true, text: 'मेरा बजट' }
+{ isPartial: true, text: 'मेरा बजट पचा' }
+{ isPartial: true, text: 'मेरा बजट पचास' }
+{ isPartial: true, text: 'मेरा बजट पचास लाख' }
+{ isPartial: true, text: 'मेरा बजट पचास लाख' }
+{ isPartial: true, text: 'मेरा बजट पचास लाख है' }
+{ isPartial: true, text: 'मेरा बजट पचास लाख है' }
+{ isPartial: true, text: 'मेरा बजट पचास लाख है' }
+{ isPartial: true, text: 'मेरा बजट पचास लाख है' }
+{ isPartial: true, text: 'मेरा बजट पचास लाख है' }
+{ text: 'मेरा बजट पचास लाख है ', score: 90 }
+{ isPartial: true, text: 'अप मैंने' }
+{ isPartial: true, text: 'अपने लेे' }
+{ isPartial: true, text: 'अपने ले' }
+{ isPartial: true, text: 'अपने ले' }
+{ isPartial: true, text: 'अपने लेख' }
+{ isPartial: true, text: 'अपने लेख' }
+{ text: 'अपने लेख ', score: 90 }
+{ isPartial: true, text: 'it' }
+{ isPartial: true, text: 'एक दोम' }
+{ isPartial: true, text: 'it allo me' }
+{ isPartial: true, text: 'its a domein' }
+{ isPartial: true, text: 'its allo me mment' }
+{ isPartial: true, text: 'itx alo me mment' }
+{ isPartial: true, text: 'itx a do mmm' }
+{ isPartial: true, text: 'itx a do minmm' }
+{ isPartial: true, text: 'itx a do minm' }
+{ isPartial: true, text: 'itx a do mmm' }
+{ text: 'itxs a दo mmm ', score: 90 }
+{ isPartial: true, text: 'and open' }
+{ isPartial: true, text: 'h the' }
+{ isPartial: true, text: 'he the last' }
+{ isPartial: true, text: 'h leve the le noow' }
+{ isPartial: true, text: 'h the lets nonow' }
+{ isPartial: true, text: 'h the ts nonow' }
+{ isPartial: true, text: 'h lets nonow' }
+{ isPartial: true, text: 'h lets  nonow' }
+{ isPartial: true, text: 'h lets  nonow' }
+{ text: 'h lets  nonow ', score: 90 }
+{ isPartial: true, text: 'c' }
+{ isPartial: true, text: 'car' }
+{ isPartial: true, text: 'car bेedroom' }
+{ isPartial: true, text: 'car bedroom' }
+{ isPartial: true, text: 'char bedroom' }
+{ isPartial: true, text: 'char bedroom' }
+{ isPartial: true, text: 'char bedroom' }
+{ isPartial: true, text: 'char bedroom' }
+{ text: 'char bedroom ', score: 90 }
+{ isPartial: true, text: 'svन' }
+{ isPartial: true, text: 'seventyive' }
+{ isPartial: true, text: 'seventy seven' }
+{ isPartial: true, text: 'seventy five lakh' }
+{ isPartial: true, text: 'seventy five lax' }
+{ isPartial: true, text: 'seventy five lax' }
+{ isPartial: true, text: 'seventy five lax' }
+{ isPartial: true, text: 'seventy five lax' }
+{ isPartial: true, text: 'seventy five laxs' }
+{ text: 'seventy five lax ', score: 90 }
+{ isPartial: true, text: 'a' }
+{ isPartial: true, text: 'हो' }
+{ isPartial: true, text: 'i hp' }
+{ isPartial: true, text: 'a hोगा' }
+{ isPartial: true, text: 'i hope in the' }
+{ isPartial: true, text: 'i hope the investment' }
+{ isPartial: true, text: 'a hोगा इन्वेस्टमेंट' }
+{ isPartial: true, text: 'a hोगा inveेstment pupose' }
+{ isPartial: true, text: 'a hoba investment purpose' }
+{ isPartial: true, text: 'हा होगा इन्वेस्टमेंट पर्पस के लिए' }
+{ isPartial: true, text: 'हाँ ये होगा इन्वेस्टमेंट पर्पस के लिए' }
+{ isPartial: true, text: 'हाँ ये होगा इन्वेस्टमेंट पर्पस के लिए' }
+{ isPartial: true, text: 'हाँ ये होगा इन्वेस्टमेंट पर्पस के लिए' }
+{ isPartial: true, text: 'हाँ ये होगा इन्वेस्टमेंट पर्पस के लिए' }
+{ isPartial: true, text: 'हाँ ये होगा इन्वेस्stमent purपose के लिए' }
+{ text: 'हाँ ये होगा इन्वेस्टमेंट पर्पस के लिए ', score: 90 }
+{ isPartial: true, text: 'दम' }
+{ isPartial: true, text: 'दो महीनेट' }
+{ isPartial: true, text: 'दो महीने में' }
+{ isPartial: true, text: 'दो महीने में' }
+{ isPartial: true, text: 'दो महीने में' }
+{ isPartial: true, text: 'दो महीने में' }
+{ isPartial: true, text: 'दो महीने में' }
+{ text: 'दो महीने में ', score: 90 }
+{ isPartial: true, text: 'hell' }
+{ isPartial: true, text: 'आप इन्फॉर्म' }
+{ isPartial: true, text: 'आप बिलकुल मे' }
+{ isPartial: true, text: 'आाप बिल्कुल मैं करर के' }
+{ isPartial: true, text: 'हाँ बिल्फुल मैं एकघर के कला' }
+{ isPartial: true, text: 'हाँ बिल्कुल मैं एक घर के खिलाफ' }
+{ isPartial: true, text: 'हाँ बिल्कुल मैं एक गरके कालास्ट में ह' }
+{ isPartial: true, text: 'हाँ बिल्कुल मैं एक घर के कलाश में हूँ' }
+{ isPartial: true, text: 'हाँ बिल्कुल मैं एक र के कालाश में हूँ' }
+{ isPartial: true, text: 'हाँ बिल्कुल मैं एक घर के कालाश में हूँ' }
+{ isPartial: true, text: 'हाँ बिल्कुल मैं एक घर के कालाश में हूँ' }
+{ isPartial: true, text: 'हाँ बिल्कुल मैं एक घर के कलाश में हूँ' }
+{ text: 'हाँ बिल्कुल मैं एक र के कलाश में हूँ ', score: 90 }
+{ isPartial: true, text: 'by' }
+{ isPartial: true, text: 'bै' }
+{ isPartial: true, text: 'मैं बहुत' }
+{ isPartial: true, text: 'मैं बहुत सारा' }
+{ isPartial: true, text: 'मैं बहुत सारा' }
+{ isPartial: true, text: 'मैं बहुत सारा' }
+{ isPartial: true, text: 'मैं बहुत सारा' }
+{ isPartial: true, text: 'मैं बहुत सारा' }
+{ isPartial: true, text: 'मैं बहुत सारा' }
+{ text: 'मैं बहुत सारा ', score: 90 }
+{ isPartial: true, text: 'आप' }
+{ isPartial: true, text: 'haबन' }
+{ isPartial: true, text: 'हाँ बिल्कुल' }
+{ isPartial: true, text: 'हाँ बिल्कुल मेरा' }
+{ isPartial: true, text: 'हाँ बिल्कुल मेरा बई' }
+{ isPartial: true, text: 'हाँ बिल्कुल मेरा बजट' }
+{ isPartial: true, text: 'हाँ बिल्कुल मेरा बजट ज' }
+{ isPartial: true, text: 'हाँ बिल्कुल मेरा बजट जान' }
+{ isPartial: true, text: 'हाँ बिल्कुल मेरा बजट जान सक' }
+{ isPartial: true, text: 'हाँ बिल्कुल मेरा बजट जान सकती है' }
+{ isPartial: true, text: 'हाँ बिल्कुल मेरा बजट जान सकती हो' }
+{ isPartial: true, text: 'हाँ बिल्कुल मेरा बजट जान सकती हो तुम' }
+{ isPartial: true, text: 'हाँ बिल्कुल मेरा बजट जान सकती हो तुम' }
+{ isPartial: true, text: 'हाँ बिल्कुल मेरा बजट जान सकती हो तुम' }
+{ isPartial: true, text: 'हाँ बिल्कुल मेरा बजट जान सकती हो तुम' }
+{ isPartial: true, text: 'हाँ बिल्कुल मेरा बजट जान सकती हो तुम' }
+{ isPartial: true, text: 'हाँ बिल्कुल मेरा बजट जान सकती हो तुम' }
+{ text: 'हाँ बिल्कुल मेरा बजट जान सकती हो तुम ', score: 90 }
+{ isPartial: true, text: 'आपने' }
+{ isPartial: true, text: 'आपनेे' }
+{ isPartial: true, text: 'आपने देख रही' }
+{ isPartial: true, text: 'अपने लिए खरीदी' }
+{ isPartial: true, text: 'अपने लिए खरीदना है' }
+{ isPartial: true, text: 'अपने लिए खरीदना है' }
+{ isPartial: true, text: 'अपने लिए खरीदना है' }
+{ isPartial: true, text: 'आपने लिए खरीदना है' }
+{ isPartial: true, text: 'आपने लिए खरीदना है' }
+{ isPartial: true, text: 'आपने लिए खरीदना है' }
+{ text: 'आपने लिए खरीदना है ', score: 90 }
+{ isPartial: true, text: 'यही एक नब' }
+{ isPartial: true, text: 'यही एक दो महीने' }
+{ isPartial: true, text: 'यही एक दो महीने' }
+{ isPartial: true, text: 'यही एक दो महीने के अंद' }
+{ isPartial: true, text: 'यही एक दो महीने के अंदर' }
+{ isPartial: true, text: 'यही एक दो महीने के अंदर अंदर' }
+{ isPartial: true, text: 'यही एक दो महीने के अंदर अंदर' }
+{ isPartial: true, text: 'यही एक दो महीने के अंदर अंदर' }
+{ isPartial: true, text: 'यही एक दो महीने के अंदर अंदर' }
+{ isPartial: true, text: 'यही एक दो महीने के अंदर अंदर' }
+{ isPartial: true, text: 'यही एक दो महीने के अंदर अंदर' }
+{ text: 'यही एक दो महीने के अंदर अंदर ', score: 90 }
+{ isPartial: true, text: 'हाँ' }
+{ isPartial: true, text: 'हाँी' }
+{ isPartial: true, text: 'okay' }
+{ isPartial: true, text: 'हाँी' }
+{ isPartial: true, text: 'हाँी' }
+{ text: 'हाँ जी ', score: 90 }
+{ isPartial: true, text: 'y' }
+{ isPartial: true, text: 'y mes' }
+{ isPartial: true, text: 'y mst' }
+{ isPartial: true, text: 'y mst' }
+{ text: 'y mes ', score: 90 }
+{ isPartial: true, text: 'th' }
+{ isPartial: true, text: 'tventy five' }
+{ isPartial: true, text: 'y f' }
+{ isPartial: true, text: 'seventy fi lackh' }
+{ isPartial: true, text: 'seventy five lakh' }
+{ isPartial: true, text: 'seventy five lakh' }
+{ isPartial: true, text: 'seventy five lakh' }
+{ isPartial: true, text: 'seventy five lakh' }
+{ isPartial: true, text: 'seventy five lakh' }
+{ text: 'seventy five lakh ', score: 90 }
+{ isPartial: true, text: 'sorry no not' }
+{ isPartial: true, text: 'so investment a' }
+{ isPartial: true, text: 'so investment pupess' }
+{ isPartial: true, text: 'so investment purpos cany' }
+{ isPartial: true, text: 'soो इन्veेस्टमेंent pps केl' }
+{ isPartial: true, text: 'so इन्veस्stमment prpessl' }
+{ isPartial: true, text: 'so इvestment purpos केl' }
+{ isPartial: true, text: 'so investment purpos cl' }
+{ isPartial: true, text: 'so investment purpose cl' }
+{ text: 'investment purpose cly ', score: 90 }
+{ isPartial: true, text: 'एकका' }
+{ isPartial: true, text: 'एक काम में' }
+{ isPartial: true, text: 'एक काल में' }
+{ isPartial: true, text: 'एक साल में' }
+{ isPartial: true, text: 'एक काल में' }
+{ isPartial: true, text: 'एक साल में' }
+{ text: 'एक साल में ', score: 90 }
+{ isPartial: true, text: 'yes' }
+{ isPartial: true, text: 'यस चेक कर रहे है' }
+{ isPartial: true, text: 'यस चेक कर रहे है' }
+{ isPartial: true, text: 'यस चेक कर रह है' }
+{ isPartial: true, text: 'यस चेक कर रहा है' }
+{ isPartial: true, text: 'यस चेक कर रह है' }
+{ isPartial: true, text: 'यस चेक कर रहा है' }
+{ text: 'यस चेक कर रह है ', score: 90 }
+{ isPartial: true, text: 'h' }
+{ isPartial: true, text: 'one' }
+{ isPartial: true, text: 'ज' }
+{ isPartial: true, text: 'जटिका' }
+{ text: 'ज ', score: 90 }
+{ isPartial: true, text: 'thank you' }
+{ isPartial: true, text: 'बजट पर' }
+{ isPartial: true, text: 'बजट पता' }
+{ isPartial: true, text: 'बजट पचास लाख' }
+{ isPartial: true, text: 'बजट पचास लाख' }
+{ isPartial: true, text: 'बजट पचास लाख' }
+{ isPartial: true, text: 'बजट पचास लाख' }
+{ isPartial: true, text: 'बजट पचास लाख' }
+{ isPartial: true, text: 'बजट पचास लैख' }
+{ text: 'बजट पचास लैख ', score: 90 }
+{ text: 's ', score: 90 }
+{ isPartial: true, text: 'a' }
+{ isPartial: true, text: 'aigh' }
+{ isPartial: true, text: 'amigh' }
+{ isPartial: true, text: 'a m' }
+{ isPartial: true, text: 'm' }
+{ isPartial: true, text: 'm' }
+{ text: 'm ', score: 90 }
+{ isPartial: true, text: 'h' }
+{ isPartial: true, text: 'हाँ जी अल्ला' }
+{ isPartial: true, text: 'हाँ de last m' }
+{ isPartial: true, text: 'हाँ de let me' }
+{ isPartial: true, text: 'हाँ जी कललाट में हूँ' }
+{ isPartial: true, text: 'हाँ जी कल्लाश में हूँ' }
+{ isPartial: true, text: 'हाँ जी कललाश में ह' }
+{ isPartial: true, text: 'हाँ जी कललाश में हू' }
+{ isPartial: true, text: 'हाँ जी कललाट मेंू' }
+{ text: 'हाँ जीताल लास m ', score: 90 }
+{ isPartial: true, text: 'a' }
+{ isPartial: true, text: 'ah' }
+{ isPartial: true, text: 'ah' }
+{ text: 'a ', score: 90 }
+{ isPartial: true, text: 's lॉc' }
+{ isPartial: true, text: 'st लoक' }
+{ isPartial: true, text: 'st लoक' }
+{ isPartial: true, text: 'sat loc' }
+{ isPartial: true, text: 'sat lock' }
+{ isPartial: true, text: 'sat lock' }
+{ text: 'sat lock ', score: 90 }
+{ isPartial: true, text: 'i' }
+{ isPartial: true, text: 'i' }
+{ isPartial: true, text: 'i holp' }
+{ isPartial: true, text: 'i he gy' }
+{ isPartial: true, text: 'आ ये होगा इवे' }
+{ isPartial: true, text: 'आा ये होगा इन्वेस्टमेंट' }
+{ isPartial: true, text: 'हाँ ये होगा इन्वेस्टमेंट कर' }
+{ isPartial: true, text: 'हाँ ये होगा इन्वेस्टमेंट पर्पसe' }
+{ isPartial: true, text: 'हाँ ये होगा इन्वेस्टमेंट पर्पस' }
+{ isPartial: true, text: 'हाँ ये होगा इन्वेस्टमेंट पर्पस' }
+{ isPartial: true, text: 'हा ये होगा इन्वेस्टमेंट पर्पस' }
+{ isPartial: true, text: 'ह ये होगा इ inveेstमent purpose' }
+{ isPartial: true, text: 'ह ये होगा इन्veेstमट purpose' }
+{ isPartial: true, text: 'ह ये होगा इन्veेstटमेंट pर्pसe' }
+{ text: 'ह ये होगा इन्वेstटमेंट पर्पसe ', score: 90 }
+{ isPartial: true, text: 'ah' }
+{ isPartial: true, text: 'auh' }
+{ isPartial: true, text: 'ah' }
+{ isPartial: true, text: 'तीन महीना' }
+{ isPartial: true, text: 'ah p in my name' }
+{ isPartial: true, text: 'पीन माई nम है' }
+{ isPartial: true, text: 'तीन महीने में' }
+{ isPartial: true, text: 'तीन महीने में' }
+{ isPartial: true, text: 'तीन महीने में' }
+{ isPartial: true, text: 'तीन महीने में' }
+{ text: 'तीन महीने में ', score: 90 }
+{ isPartial: true, text: 'आबिल' }
+{ isPartial: true, text: 'आबिलफुल' }
+{ isPartial: true, text: 'आबिलफुल' }
+{ isPartial: true, text: 'आाँ बिल्कुल' }
+{ isPartial: true, text: 'आप बिल्कुल' }
+{ isPartial: true, text: 'आप बिल्कुल एक रो' }
+{ isPartial: true, text: 'आप बिल्फुल एक प्रॉपर्' }
+{ isPartial: true, text: 'आाप बिल्कुल एक प्रॉपर्टी' }
+{ isPartial: true, text: 'हाँ बिल्कुल एक प्रॉपर्टी सर' }
+{ isPartial: true, text: 'आाप बिल्कुल एक प्रॉपर्टी सर्च' }
+{ isPartial: true, text: 'आप बिल्कुल एक प्रॉपर्टी सर्च कर रह है' }
+{ isPartial: true, text: 'आप बिल्कुल एक प्रॉपर्टी सर्च कर रहे हैं' }
+{ isPartial: true, text: 'आप बिल्कुल एक प्रॉपर्टी सर्च कर रहे हैं' }
+{ isPartial: true, text: 'आप बिल्कुल एक प्रॉपर्टी सर्च कर रहे हैं' }
+{ isPartial: true, text: 'आप बिल्कुल एक प्रॉपर्टी सर्च कर रहे हैं' }
+{ isPartial: true, text: 'आप बिल्कुल एक प्रॉपर्टी सर्च कर रहे हैं' }
+{ isPartial: true, text: 'आप बिल्कुल एक प्रॉपर्टी सर्च कर रहे हैं' }
+{ text: 'आप बिल्कुल एक प्रॉपर्टी सर्च कर रहे हैं ', score: 90 }
+{ isPartial: true, text: 'a' }
+{ isPartial: true, text: 'हम लोग' }
+{ isPartial: true, text: 'हम लोग चार द' }
+{ isPartial: true, text: 'हम लोग चार बीए' }
+{ isPartial: true, text: 'हम लोग चार बीएच कर' }
+{ isPartial: true, text: 'हम लोग चार बीएच के सा' }
+{ isPartial: true, text: 'हम लोग चार बीएच के साफ ल' }
+{ isPartial: true, text: 'हम लोग चार बीएच के का फ्लैस' }
+{ isPartial: true, text: 'हम लोग चार बीएच के सा फ्लैश देते' }
+{ isPartial: true, text: 'हम लोग चार बीएच के का फ्लैश देजते हैं' }
+{ isPartial: true, text: 'हम लोग चार बीएच के का फ्लैश देजते हैं' }
+{ isPartial: true, text: 'हम लोग चार बीएच के का फ्लैश देजते हैं' }
+{ isPartial: true, text: 'हम लोग चार बीएच के का फ्लैश देजते हैं' }
+{ isPartial: true, text: 'हम लोगार बीएच के का फ्लैश देखते हैं' }
+{ isPartial: true, text: 'हम लोगार बीएच के का फ्लैश देजते हैं' }
+{ isPartial: true, text: 'हम लोगार बीएच के का फ्लैश देजते हैं' }
+{ text: 'हम लोगार बीएच के का फ्लैश देजते हैं ', score: 90 }
+{ isPartial: true, text: 'म' }
+{ isPartial: true, text: 'मेरा बजा' }
+{ isPartial: true, text: 'मेरा बजट' }
+{ isPartial: true, text: 'मेरा बजट' }
+{ isPartial: true, text: 'मेरा बजट' }
+{ isPartial: true, text: 'मेरा बजट' }
+{ isPartial: true, text: 'मेरा बजट' }
+{ text: 'मेरा बजट ', score: 90 }
+{ isPartial: true, text: 'ह' }
+{ isPartial: true, text: 'may' }
+{ isPartial: true, text: 'a' }
+{ isPartial: true, text: 'am no' }
+{ isPartial: true, text: 'am no' }
+{ isPartial: true, text: 'हम लोग रेडी' }
+{ isPartial: true, text: 'am now ready to' }
+{ isPartial: true, text: 'am lo ready to' }
+{ isPartial: true, text: 'हm लo ready to move' }
+{ isPartial: true, text: 'am lo ready to mow prb' }
+{ isPartial: true, text: 'हm lo ready to nonow properly' }
+{ isPartial: true, text: 'हm lo ready to know property' }
+{ isPartial: true, text: 'हम लोग रेडीटू नोw प्रrोपerटी' }
+{ isPartial: true, text: 'हम लोग रेडीटू नोw प्रोपerटी म' }
+{ isPartial: true, text: 'हम लोग रady to now property' }
+{ isPartial: true, text: 'हम लोग ready to know property' }
+{ text: 'हम लोग रेadी to nw property ', score: 90 }
+{ isPartial: true, text: 'amb' }
+{ isPartial: true, text: 'am' }
+{ isPartial: true, text: 'and' }
+{ isPartial: true, text: 'हम लोग' }
+{ isPartial: true, text: 'हम लोग' }
+{ text: 'हम लोग ', score: 90 }
+{ isPartial: true, text: 'ह' }
+{ isPartial: true, text: 'ह बिलllफु' }
+{ isPartial: true, text: 'हाँ बिलफुले' }
+{ isPartial: true, text: 'haा बillfuल ेt no' }
+{ isPartial: true, text: 'ह बillfu  no' }
+{ isPartial: true, text: 'हाँ बiिलfuल नेx popertी' }
+{ isPartial: true, text: 'हाँ बिल्कुल ने प्रrॉपerटी स' }
+{ isPartial: true, text: 'हाँ बिल्कुल  प्रॉपerटी स' }
+{ isPartial: true, text: 'हाँ बिल्कुल नेे प्रॉपर्टी सर्च कर' }
+{ isPartial: true, text: 'हाँ बिल्कुल एक प्रॉपर्टी सर्च कर रहे हैं' }
+{ isPartial: true, text: 'हाँ बिल्कुल एक प्रॉपर्टी सर्च कर रहे हैं' }
+{ isPartial: true, text: 'हाँ बिल्कुल एक प्रॉपर्टी सर्च कर रहे हैं' }
+{ isPartial: true, text: 'हाँ बिल्कुल एक प्रॉपर्टी सर्च कर रहे हैं' }
+{ isPartial: true, text: 'हाँ बिल्कुल एक प्रॉपर्टी सर्च कर रहे हैं' }
+{ isPartial: true, text: 'हाँ बिल्कुल एक प्रॉपर्टी सर्च कर रहे हैं' }
+{ text: 'हाँ बिल्कुल एक प्रॉपर्टी सर्च कर रहे हैं ', score: 90 }
+{ text: 's ', score: 90 }
+{ isPartial: true, text: 'हमारा बजे' }
+{ isPartial: true, text: 'हमारा बजट' }
+{ isPartial: true, text: 'हमारा बजट पास' }
+{ isPartial: true, text: 'हमारा बजट पाँच सौ' }
+{ isPartial: true, text: 'हमारा बजट पाँच सौ साल' }
+{ isPartial: true, text: 'हमारा बजट पाँच सौ साफ स' }
+{ isPartial: true, text: 'हमारा बजट पाँच सौ सात सौुपया' }
+{ isPartial: true, text: 'हमारा बजट पाँच सौ सात सौ करोड़' }
+{ isPartial: true, text: 'हमारा बजट पाँच सौ सात सौ करोड़ है' }
+{ isPartial: true, text: 'हमारा बजट पाँच सौ सात सौ करोड़ रुपया है' }
+{ isPartial: true, text: 'हमारा बजट पाँच सौ सात सौ करोड़ रुपया है' }
+{ isPartial: true, text: 'हमारा बजट पाँच सौ सात सौ करोड़ रुपया है' }
+{ isPartial: true, text: 'हमारा बजट पाँच सौ सात सौ करोड़ रुपया है' }
+{ isPartial: true, text: 'हमारा बजट पाँच सौ सात सौ करोड़ रुपया है' }
+{ isPartial: true, text: 'हमारा बजट पाँच सौ सात सौ करोड़ रुपया है' }
+{ text: 'हमारा बजट पाँच सौ सात सौ करोड़ रुपया है ', score: 90 }
+{ isPartial: true, text: 'am' }
+{ isPartial: true, text: 'हम लोग वे' }
+{ isPartial: true, text: 'हम लोग रेdी' }
+{ isPartial: true, text: 'हm लoोग ready to' }
+{ isPartial: true, text: 'हम लोग ready to मoveव' }
+{ isPartial: true, text: 'हम लoोग ready to move pro' }
+{ isPartial: true, text: 'हम लोग ready to move proper' }
+{ isPartial: true, text: 'हम लोग ready to move propertी' }
+{ isPartial: true, text: 'हम लोग रेडीटू मूव प्रोपर्टी में' }
+{ isPartial: true, text: 'हम लोग रेडी टू मूव प्रॉपर्टी मेंनथे' }
+{ isPartial: true, text: 'हम लोग रेडीटू मूव प्रोपर्टी मेंंसर' }
+{ isPartial: true, text: 'हम लोग रेडीटू मूव प्रोपर्टी में इंटट' }
+{
+  isPartial: true,
+  text: 'हम लोग रेडी टू मूव प्रोपर्टी में इंटरेटेड है'
+}
+{
+  isPartial: true,
+  text: 'हम लोग रेडी टू मूव प्रोपर्टी में इंटरेस्टेड हैं'
+}
+{ isPartial: true, text: 'हम लोग रेडीट मूव प्रोपerटी में इंटरेस्ड है' }
+{
+  isPartial: true,
+  text: 'हम लोग रेडीट मूव प्रोपर्टी में इंटरेस्ेड है'
+}
+{
+  isPartial: true,
+  text: 'हम लोग रेडीट मूव प्रॉपर्टी में इंटरेस्टेड है'
+}
+{
+  isPartial: true,
+  text: 'हम लोग रेडीट मूव प्रॉपर्टी में इंटरेस्टेड है'
+}
+{ text: 'हम लोग रेडीट मूव प्रॉपर्टी में इंटरेस्ेड है ', score: 90 }
+{ isPartial: true, text: 'हम ल मुंबई' }
+{ isPartial: true, text: 'हमड मुंबेई' }
+{ isPartial: true, text: 'हमरज मुं्बइल लऑके' }
+{ isPartial: true, text: 'हमर मुंबई लॉकेशन' }
+{ isPartial: true, text: 'हम लोग मुं्बई लोकेशन' }
+{ isPartial: true, text: 'हम लोग मुंबई लोकेशन में' }
+{ isPartial: true, text: 'हम लोग मुंबई लॉकेशन में खरीदे' }
+{ isPartial: true, text: 'हम लोग मुंबई लॉकेटन में खरीदे' }
+{ isPartial: true, text: 'हम लोग मुंबई लॉकेेशन में खरीदने के' }
+{ isPartial: true, text: 'हम लोग मुंबई लोकेशन में खरीदने की सोच' }
+{
+  isPartial: true,
+  text: 'हम लोग मुंबई लोकेशन में खरीदने की सोच रहे हैं'
+}
+{
+  isPartial: true,
+  text: 'हम लोग मुंबई लोकेशन में खरीदने की सोच रहे हैं'
+}
+{
+  isPartial: true,
+  text: 'हम लोग मुंबई लोकेशन में खरीदने की सोच रहे हैं'
+}
+{
+  isPartial: true,
+  text: 'हम लोग मुंबई लोकेशन में खरीदने की सोच रहे हैं'
+}
+{
+  isPartial: true,
+  text: 'हम लोग मुंबई लोकेशन में खरीदने की सोच रहे हैं'
+}
+{
+  isPartial: true,
+  text: 'हम लोग मुंबई लोकेशन में खरीदने की सोच रहे हैं'
+}
+{
+  isPartial: true,
+  text: 'हम लोग मुंबई लोकेशन में खरीदने की सोच रहे हैं'
+}
+{ text: 'हम लोग मुंबई लोकेशन में खरीदने की सोच रहे हैं ', score: 90 }
+{ isPartial: true, text: 'हा म' }
+{ isPartial: true, text: 'h mिstर' }
+{ isPartial: true, text: 'ह मis' }
+{ isPartial: true, text: 'हा मिस' }
+{ isPartial: true, text: 'हाँ मैं सर्ज कर रहा हूँ एक' }
+{ isPartial: true, text: 'हाँ मैं सर्च कर रहा हूँ इसको' }
+{ isPartial: true, text: 'हाँ मैं सर्च कर रहा हूँ एक प्रॉपर्' }
+{ isPartial: true, text: 'हाँ मैं सर्च कर रहा हूँ एक पोपर से' }
+{ isPartial: true, text: 'हाँ मैं सर्च कर रहा हूँ एक प्रॉपर्टी' }
+{ isPartial: true, text: 'हाँ मैं सर्च कर रहा हूँ एक प्रॉपर्टी' }
+{ isPartial: true, text: 'हाँ मैं सर्च कर रहा हूँ एक प्रॉपर्टी' }
+{ isPartial: true, text: 'हाँ मैं सर्च कर रहा हूँ एक प्रॉपर्टी' }
+{ isPartial: true, text: 'हाँ मैं सर्च कर रहा हूँ एक प्रॉपर्टी' }
+{ text: 'हाँ मैं सर्च कर रहा हूँ एक प्रॉपर्टी ', score: 90 }
+{ isPartial: true, text: 'हाँ' }
+{ isPartial: true, text: 'हाँ' }
+{ isPartial: true, text: 'हाँ े कर रहे' }
+{ isPartial: true, text: 'हाँ चेच कर रहा हूँ' }
+{ isPartial: true, text: 'हाँ चेच कर रहा हूँ' }
+{ isPartial: true, text: 'हाँ सेर्च कर रहा हूँ' }
+{ isPartial: true, text: 'हाँ सर्च कर रहा हूँ' }
+{ isPartial: true, text: 'हाँ सर्च कर रहा हूँ' }
+{ isPartial: true, text: 'हाँ सर्च कर रहा हूँ' }
+{ text: 'हाँ सर्च कर रहा हूँ ', score: 90 }
+{ isPartial: true, text: 'पाँच बट' }
+{ isPartial: true, text: 'पाँच बेडrोम' }
+{ isPartial: true, text: 'पाँच बेडरoम' }
+{ isPartial: true, text: 'पांच बेडरoम' }
+{ isPartial: true, text: 'pांच बेedरoम' }
+{ isPartial: true, text: 'pांच बेedरoम' }
+{ isPartial: true, text: 'pांच बेedरoम' }
+{ text: 'pांच बेedरoम ', score: 90 }
+{ isPartial: true, text: 'eighty' }
+{ isPartial: true, text: 'eighty lakh' }
+{ isPartial: true, text: 'eighty lakh' }
+{ isPartial: true, text: 'eighty lakhs' }
+{ isPartial: true, text: 'eighty lakhs' }
+{ isPartial: true, text: 'eighty lakhs' }
+{ isPartial: true, text: 'eighty lakhs' }
+{ text: 'eighty lakhs ', score: 90 }
+{ isPartial: true, text: 'h' }
+{ isPartial: true, text: 'redy to mor' }
+{ isPartial: true, text: 'ready to move' }
+{ isPartial: true, text: 'ready to move' }
+{ isPartial: true, text: 'ready to move' }
+{ isPartial: true, text: 'ready to move' }
+{ isPartial: true, text: 'ready to move' }
+{ isPartial: true, text: 'ready to move' }
+{ text: 'ready to move ', score: 90 }
+{ isPartial: true, text: 'one night' }
+{ isPartial: true, text: 'm nigh' }
+{ isPartial: true, text: 'muonbई' }
+{ isPartial: true, text: 'mumbई' }
+{ isPartial: true, text: 'muombi' }
+{ isPartial: true, text: 'muombi' }
+{ text: 'muombai ', score: 90 }
+{ isPartial: true, text: 'a' }
+{ isPartial: true, text: 'हाँ शॉट कर' }
+{ isPartial: true, text: 'हाँ चर्च कर रहा हूँ' }
+{ isPartial: true, text: 'हाँ चेच कर रहा हूँ' }
+{ isPartial: true, text: 'हाँ चेच कर रहा हूँ' }
+{ isPartial: true, text: 'हाँ चर्च कर रहा हूँ' }
+{ isPartial: true, text: 'हाँ चर्च कर रहा हूँ' }
+{ isPartial: true, text: 'हाँ चर्च कर रहा हूँ' }
+{ text: 'हाँ चर्च कर रहा हूँ ', score: 90 }
+{ isPartial: true, text: 'i' }
+{ isPartial: true, text: 'i' }
+{ isPartial: true, text: 'm' }
+{ isPartial: true, text: 'm' }
+{ isPartial: true, text: 'nin' }
+{ isPartial: true, text: 'nin fou' }
+{ isPartial: true, text: 'ny four be' }
+{ isPartial: true, text: 'nin four बch' }
+{ isPartial: true, text: 'nin four बchk' }
+{ isPartial: true, text: 'nin four bchk' }
+{ isPartial: true, text: 'ny four bhk' }
+{ isPartial: true, text: 'nin four bchk' }
+{ isPartial: true, text: 'nin four bchk' }
+{ text: 'nin four bhk ', score: 90 }
+{ isPartial: true, text: 'sixty' }
+{ isPartial: true, text: 'sixty lakh' }
+{ isPartial: true, text: 'sixty lakhs' }
+{ isPartial: true, text: 'sixty lakhs' }
+{ isPartial: true, text: 'sixty lakhs' }
+{ isPartial: true, text: 'sixty lakhs' }
+{ isPartial: true, text: 'sixty lakhs' }
+{ text: 'sixty lakhs ', score: 90 }
+{ isPartial: true, text: 'y' }
+{ isPartial: true, text: 'you not' }
+{ isPartial: true, text: 'new lonching' }
+{ isPartial: true, text: 'new lonching prop' }
+{ isPartial: true, text: 'new lonching propert' }
+{ isPartial: true, text: 'new lonching property' }
+{ isPartial: true, text: 'new laonching property' }
+{ isPartial: true, text: 'new lauching property' }
+{ isPartial: true, text: 'new lauching property' }
+{ isPartial: true, text: 'new lauching property' }
+{ text: 'new laonching property ', score: 90 }
+{ isPartial: true, text: 'one eight' }
+{ isPartial: true, text: 'n' }
+{ isPartial: true, text: 'उने' }
+{ isPartial: true, text: 'उने' }
+{ isPartial: true, text: 'पने' }
+{ text: 'ने ', score: 90 }
+{ isPartial: true, text: 'no' }
+{ isPartial: true, text: 'ne' }
+{ isPartial: true, text: 'ne' }
+{ isPartial: true, text: 'नहीं व क' }
+{ isPartial: true, text: 'नहीं व कु करिए' }
+{ isPartial: true, text: 'नहीं वो खुद के लिए' }
+{ isPartial: true, text: 'नहीं वो खुद के लिए' }
+{ isPartial: true, text: 'नहीं वो खुद के लिए' }
+{ isPartial: true, text: 'नहीं वो खुद के लिए' }
+{ text: 'नहीं वो खुद के लिए ', score: 90 }
+{ isPartial: true, text: 'hello' }
+{ isPartial: true, text: 'एक d' }
+{ isPartial: true, text: 'एक साल में' }
+{ isPartial: true, text: 'एक साल में' }
+{ isPartial: true, text: 'एक साल में' }
+{ isPartial: true, text: 'एक साल में' }
+{ isPartial: true, text: 'एक साल में' }
+{ text: 'एक साल में ', score: 90 }
+{ isPartial: true, text: 'okay' }
+{ isPartial: true, text: 'okay thank' }
+{ isPartial: true, text: 'okay thank you' }
+{ isPartial: true, text: 'okay thank you' }
+{ isPartial: true, text: 'okay thank you' }
+{ isPartial: true, text: 'okay thank you' }
+{ isPartial: true, text: 'okay thank you' }
+{ isPartial: true, text: 'okay thank you' }
+{ text: 'okay thank you ', score: 90 }
+TypeError: Cannot read properties of undefined (reading 'url')
+    at WSServer.<anonymous> (/root/parth/aeap-speech-to-text/index.js:48:35)
+    at WSServer.emit (node:events:514:28)
+    at WebSocketServer.<anonymous> (/root/parth/aeap-speech-to-text/lib/server.js:83:9)
+    at WebSocketServer.emit (node:events:514:28)
+    at WebSocketServer.completeUpgrade (/root/parth/aeap-speech-to-text/node_modules/ws/lib/websocket-server.js:435:5)
+    at WebSocketServer.handleUpgrade (/root/parth/aeap-speech-to-text/node_modules/ws/lib/websocket-server.js:343:10)
+    at Server.upgrade (/root/parth/aeap-speech-to-text/node_modules/ws/lib/websocket-server.js:119:16)
+    at Server.emit (node:events:514:28)
+    at Server.<anonymous> (/root/.nvm/versions/node/v20.10.0/lib/node_modules/pm2/node_modules/@pm2/io/build/main/metrics/httpMetrics.js:153:37)
+    at onParserExecuteCommon (node:_http_server:942:14)
+{ isPartial: true, text: 'आप' }
+{ isPartial: true, text: 'आबिल' }
+{ isPartial: true, text: 'आाँ बिल्कुल' }
+{ isPartial: true, text: 'हाँ बिल्कुल मैं' }
+{ isPartial: true, text: 'हाँ बिल्कुल मैं' }
+{ isPartial: true, text: 'हाँ बिल्कुल मैं देख' }
+{ isPartial: true, text: 'हाँ बिल्कुल मैं देख' }
+{ isPartial: true, text: 'हाँ बिल्कुल मैं देख रहा हूँ' }
+{ isPartial: true, text: 'हाँ बिल्कुल मैं देख रहा हूँ' }
+{ isPartial: true, text: 'हाँ बिल्कुल मैं देख रहा हूँ' }
+{ isPartial: true, text: 'हाँ बिल्कुल मैं देख रहा हूँ' }
+{ isPartial: true, text: 'हाँ बिल्कुल मैं देख रहा हूँ' }
+{ isPartial: true, text: 'हाँ बिल्कुल मैं देख रहा हूँ' }
+{ isPartial: true, text: 'हाँ बिल्कुल मैं देख रहा हूँ' }
+{ text: 'हाँ बिल्कुल मैं देख रहा हूँ ', score: 90 }
+{ isPartial: true, text: 'मैं' }
+{ isPartial: true, text: 'मैं पाँच बेज' }
+{ isPartial: true, text: 'मैं पाँच भेजँ' }
+{ isPartial: true, text: 'मैं पाँच बेज के' }
+{ isPartial: true, text: 'मैं पाँच भेज के का' }
+{ isPartial: true, text: 'मैं पाँच भेज के का फ' }
+{ isPartial: true, text: 'मैं पाँच भेजक का फ्लैट' }
+{ isPartial: true, text: 'मैं पाँच बेचके का फ्लैट दे र' }
+{ isPartial: true, text: 'मैं पाँच बेचके का फ्लैट देखनाूँ' }
+{ isPartial: true, text: 'मैं पाँच बीएचके का फ्लैट देखना चाहूँ' }
+{ isPartial: true, text: 'मैं पाँच बीएचके का फ्लैट देखना चाहहा हूँ' }
+{ isPartial: true, text: 'मैं पाँच बीएचके का फ्लैट देखना चाहता हूँ' }
+{ isPartial: true, text: 'मैं पाँच बीएचके का फ्लैट देखना चाहता हूँ' }
+{ isPartial: true, text: 'मैं पाँच बीएचके का फ्लैट देखना चाहता हूँ' }
+{ isPartial: true, text: 'मैं पाँच बीएचके का फ्लैट देखना चाहता हूँ' }
+{ isPartial: true, text: 'मैं पाँच बीएचके का फ्लैट देखना चाहता हूँ' }
+{ isPartial: true, text: 'मैं पाँच बीएचके का फ्लैट देखना चाहता हूँ' }
+{ isPartial: true, text: 'मैं पाँच बीएचके का फ्लैट देखना चाहता हूँ' }
+{ text: 'मैं पाँच बीएचके का फ्लैट देखना चाहता हूँ ', score: 90 }
+{ isPartial: true, text: 'आ' }
+{ isPartial: true, text: 'हाँ बिल्कुल' }
+{ isPartial: true, text: 'हाँ बिल्कुल' }
+{ isPartial: true, text: 'हाँ बिल्कुल जान' }
+{ isPartial: true, text: 'हाँ बिल्कुल जान सकते' }
+{ isPartial: true, text: 'हाँ बिल्कुल जान सकते है' }
+{ isPartial: true, text: 'हाँ बिल्कुल जान सकती हूँ' }
+{ isPartial: true, text: 'हाँ बिल्कुल जान सकती हो' }
+{ isPartial: true, text: 'हाँ बिल्कुल जान सकती हो' }
+{ isPartial: true, text: 'हाँ बिल्कुल जान सकती हो' }
+{ isPartial: true, text: 'हाँ बिल्कुल जान सकती हो' }
+{ text: 'हाँ बिल्कुल जान सकती हो ', score: 90 }
+TypeError: Cannot read properties of undefined (reading 'query')
+    at WSServer.<anonymous> (/root/parth/aeap-speech-to-text/index.js:49:77)
+    at WSServer.emit (node:events:514:28)
+    at WebSocketServer.<anonymous> (/root/parth/aeap-speech-to-text/lib/server.js:83:9)
+    at WebSocketServer.emit (node:events:514:28)
+    at WebSocketServer.completeUpgrade (/root/parth/aeap-speech-to-text/node_modules/ws/lib/websocket-server.js:435:5)
+    at WebSocketServer.handleUpgrade (/root/parth/aeap-speech-to-text/node_modules/ws/lib/websocket-server.js:343:10)
+    at Server.upgrade (/root/parth/aeap-speech-to-text/node_modules/ws/lib/websocket-server.js:119:16)
+    at Server.emit (node:events:514:28)
+    at Server.<anonymous> (/root/.nvm/versions/node/v20.10.0/lib/node_modules/pm2/node_modules/@pm2/io/build/main/metrics/httpMetrics.js:153:37)
+    at onParserExecuteCommon (node:_http_server:942:14)
+ReferenceError: ws is not defined
+    at WSServer.<anonymous> (/root/parth/aeap-speech-to-text/index.js:49:58)
+    at WSServer.emit (node:events:514:28)
+    at WebSocketServer.<anonymous> (/root/parth/aeap-speech-to-text/lib/server.js:83:9)
+    at WebSocketServer.emit (node:events:514:28)
+    at WebSocketServer.completeUpgrade (/root/parth/aeap-speech-to-text/node_modules/ws/lib/websocket-server.js:435:5)
+    at WebSocketServer.handleUpgrade (/root/parth/aeap-speech-to-text/node_modules/ws/lib/websocket-server.js:343:10)
+    at Server.upgrade (/root/parth/aeap-speech-to-text/node_modules/ws/lib/websocket-server.js:119:16)
+    at Server.emit (node:events:514:28)
+    at Server.<anonymous> (/root/.nvm/versions/node/v20.10.0/lib/node_modules/pm2/node_modules/@pm2/io/build/main/metrics/httpMetrics.js:153:37)
+    at onParserExecuteCommon (node:_http_server:942:14)
